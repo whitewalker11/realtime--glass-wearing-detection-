@@ -1,3 +1,3 @@
 # Realtime-glass-wearing-detection
 lets rock and all ...
-![](giphy.gif)
+![](face_detector/giphy.gif)
